@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=ABeeZee');
+@import url('https://fonts.googleapis.com/css?family=Akaya Kanadaka: 300,400');
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
+@import url(https://fonts.googleapis.com/css?family=Stylish&display=swap);
+*{
+	box-sizing: border-box;
+}
+html,body{
+	margin: 0;
+	padding: 0;
+
+}
+h1{
+     color: whitesmoke;
+     font-family: Akaya Kanadaka;
+}
+
+.nav ul{
+	margin left: 5em;
+    text-align: center;
+    font-family: Akaya Kanadaka; 
+     color: snow;
+
+     line-height: 4em;
+}
+.main-header{
+	
+	background-image: url("image/pic5.jpeg");
+	background-size: cover;
+	
+}
+.Image{
+	  width: 400px;
+	  height: 450px;
+	  border-radius: 50%;
+	  margin-top:  150px;
+}
+figure {
+  
+  text-align: center;
+  font-family: Akaya Kanadaka;
+  color: whitesmoke;
+  font-size: xxx-large;
+  margin: 0;
+  padding-top: 0;
+  line-height: 65px;
+}
+
+/*.aligncenter {
+  width: 60%;
+  text-align: center;
+}
+
+.imgUrlText {
+  font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+  font-size: 30px;
+  font-style: italic;
+  color: whitesmoke;
+  background-color: currentColor;
+}*/
+
+.small{
+        text-align: center;
+        font-family:Akaya Kanadaka;
+        font-size: xx-large;
+        color: whitesmoke;
+        margin bottom: 100px;
+        padding-top: 0;
+        line-height: iem;
+        margin-top: 0;
+
+}
+
+.button {
+
+	    border: none ;
+	    color: darkblue;
+	    padding: 15px 30px;
+	    text-align: center;
+	    display: inline-block;
+	    font-family: Audiowide;
+	    font-size: 20px;
+	    margin: 4px 2px;
+	    background-color: whitesmoke;
+	    font: bold;
+	    border-radius: 12px;
+	    line-height: 1em;
+}
+
+.aboutmepic{
+
+	background-image: url("image/pic3.jpeg");
+	background-size: cover;
+}
+.box{
+    
+    background-image:url("image/pic3.jpeg");
+    background-size: cover;
+	font-family: fantasy;
+	font-size: xx-large;
+	color: whitesmoke;
+	line-height: 250px;
+}
+.hobbies{
+
+	    font-family: "Stylish";
+	    color: whitesmoke;
+	    font-size: xx-large;
+}
+
+
+
+
+
+
